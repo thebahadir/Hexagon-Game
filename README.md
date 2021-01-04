@@ -14,9 +14,9 @@
 
 #### Oyun geliştirilmeye açıktır. <br>
 
-Oyun da şöyle bir bug bulunmak da ; Kontrol etmekte olduğumuz üçgen ile altıgene temas ederek kaybettiğimiz vakit<br>
-Game Over paneli geldiğinde üçgenimiz temas ettiği altıgenin peşine gelmekte olan son iki spawn altıgenin boşluk olan<br>
-kısmına denk gelirse Game Over ekranında yazmakta olan skor artmakta.  
+Oyun da şöyle bir bug bulunmak da ; Kontrol etmekte olduğumuz üçgen ile altıgene temas ederek kaybettiğimiz<br> 
+vakit Game Over paneli geldiğinde üçgenimiz temas ettiği altıgenin peşine gelmekte olan son iki spawn altıgenin<br> 
+boşluk olan kısmına denk gelirse Game Over ekranında yazmakta olan skor artmakta.  
 
 ### Kontroller 
 Klavyenin “A-D” ya da “Sağ-Sol” OK tuşları ile gerçekleşmektedir. <br>
