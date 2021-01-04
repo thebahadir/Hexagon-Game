@@ -19,6 +19,6 @@ vakit Game Over paneli geldiğinde üçgenimiz temas ettiği altıgenin peşine 
 boşluk olan kısmına denk gelirse Game Over ekranında yazmakta olan skor artmakta.  
 
 ### Kontroller 
-Klavyenin “A-D” ya da “Sağ-Sol” OK tuşları ile gerçekleşmektedir. <br>
+Klavyenin “A-D” ya da “Sağ-Sol” OK tuşları ile gerçekleşmektedir.<br>
 Kaybettikten sonra Game Over ekranı geldiği takdirde tekrar oynanmak isteniyorsa Klavyeden “Space” tuşuna ya da<br> 
 Mouse “Sol” tuşuna bir kez basılmalıdır.
